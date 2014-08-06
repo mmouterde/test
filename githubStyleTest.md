@@ -96,6 +96,21 @@ Usage
 	* another ulist element
 	+ the last ulist element
 
+	
+- a ulist element
+    * another ulist element
+        + the last ulist element
+            - a ulist element
+                  * another ulist element
+                      + the last ulist element
+					  
+1. olist						
+1. olist
+1. olist
+    1. olist
+         1. olist
+             1. olist
+                  1. olist
 ## License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
