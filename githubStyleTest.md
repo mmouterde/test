@@ -89,6 +89,13 @@ Usage
 ```
 
 
+- a ulist element
+* another ulist element
++ the last ulist element
+	- a ulist element
+	* another ulist element
+	+ the last ulist element
+
 ## License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
