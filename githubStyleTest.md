@@ -24,6 +24,7 @@ Download [manually](https://raw.githubusercontent.com/sindresorhus/github-markdo
 
 ```sh
 $ npm install --save github-markdown-css
+$ bower install --save github-markdown-css
 ```
 
 ```sh
